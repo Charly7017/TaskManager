@@ -86,3 +86,6 @@ C:\Users\Carlos Santamaria\OneDrive - Tenaris\Documentos\Programacion\C#\ASP.NET
 C:\Users\Carlos Santamaria\OneDrive - Tenaris\Documentos\Programacion\C#\ASP.NET_MVC\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.RecursoCompartido.es.resources
 C:\Users\Carlos Santamaria\OneDrive - Tenaris\Documentos\Programacion\C#\ASP.NET_MVC\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.Views.Shared._TraduccionesJS.en.resources
 C:\Users\Carlos Santamaria\OneDrive - Tenaris\Documentos\Programacion\C#\ASP.NET_MVC\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.Views.Shared._TraduccionesJS.es.resources
+C:\Users\Carlos Santamaria\OneDrive - Tenaris\Documentos\Programacion\C#\ASP.NET_MVC\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.sourcelink.json
+C:\Users\Carlos Santamaria\OneDrive - Tenaris\Documentos\Programacion\C#\ASP.NET_MVC\TareasMVC\TareasMVC\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Carlos Santamaria\OneDrive - Tenaris\Documentos\Programacion\C#\ASP.NET_MVC\TareasMVC\TareasMVC\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
