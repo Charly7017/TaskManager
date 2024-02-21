@@ -87,6 +87,7 @@ async function enviarIdsTareasAlBackend(ids) {
 }
 
 async function manejarClickTarea(tarea) {
+    console.log(2)
     if (tarea.esNuevo()) {
         return;
     }
@@ -116,6 +117,10 @@ async function manejarClickTarea(tarea) {
             new pasoViewModel({ ...paso, modoEdicion: false })
         )
     })
+
+    tareaEditarVM.archivosAdjuntos([])
+    prepararArchivosAdjuntos(json.archivosAdjuntos);
+
 
     modalEditarTareaBootstrap.show();
 

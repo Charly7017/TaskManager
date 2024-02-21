@@ -88,7 +88,7 @@ namespace TareasMVC.Controllers
             return Ok();
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("{id}")]    
         public async Task<ActionResult> Delete(Guid id)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
