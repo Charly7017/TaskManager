@@ -13,6 +13,6 @@ Task Manager is an application designed for users to efficiently manage their da
 ## 🛠 Stack
 The project is developed using modern and scalable technologies:
 <p align="left"> 
-   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,cs,dotnet"/> </a>
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,cs,dotnet"/> </a>
 </p>
 
